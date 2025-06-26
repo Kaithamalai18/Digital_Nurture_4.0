@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DN - 4.0 Hands-On Exercises.iml" filepath="$PROJECT_DIR$/.idea/DN - 4.0 Hands-On Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 1/Data Structures and Algorithms/E-com Search/E-com Search.iml" filepath="$PROJECT_DIR$/Week 1/Data Structures and Algorithms/E-com Search/E-com Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 1/Design Pattern and Principles/FactoryMethodPatternExample/FactoryMethodPatternExample.iml" filepath="$PROJECT_DIR$/Week 1/Design Pattern and Principles/FactoryMethodPatternExample/FactoryMethodPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 1/Data Structures and Algorithms/Financial Forecasting/Financial Forecasting.iml" filepath="$PROJECT_DIR$/Week 1/Data Structures and Algorithms/Financial Forecasting/Financial Forecasting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 1/Design Pattern and Principles/SingletonPatternExample/SingletonPatternExample.iml" filepath="$PROJECT_DIR$/Week 1/Design Pattern and Principles/SingletonPatternExample/SingletonPatternExample.iml" />
+    </modules>
+  </component>
+</project>
