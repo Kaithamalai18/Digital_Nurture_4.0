@@ -10,6 +10,7 @@ Then we created a java class file that uses SLF4J for logging and added the code
 Output :
 
 16:59:31.799 [main] ERROR LoggingExample -- This is an error message
+
 16:59:31.801 [main] WARN LoggingExample -- This is a warning message
 
 Process finished with exit code 0
