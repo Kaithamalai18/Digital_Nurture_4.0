@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee52c558-7f5d-4241-b5b4-5a5fca6e023b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Week 6/cohorttracker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week 6/cohorttracker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 6/cohorttracker/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week 6/cohorttracker/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 6/cohorttracker/src/CohortDetails.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week 6/cohorttracker/src/CohortDetails.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="30h81Ua0TE9VmWiUUczh0Hx1TFI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Kakashi/OneDrive/Desktop/DN - 4.0 Hands-On Exercises/Week 7/ticketbookingapp"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee52c558-7f5d-4241-b5b4-5a5fca6e023b" name="Changes" comment="" />
+      <created>1754068228753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754068228753</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -14,4 +14,4 @@ After adding everything, verified the output.
 
 OUTPUT :
 
-![alt text](image.png)
+![alt text](image-1.png)
