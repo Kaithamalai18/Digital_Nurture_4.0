@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #fff;
+}
+
+.container {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 150px 150px;
+}
+
+.panel {
+  width: 30%;
+  border-right: 3px solid rgb(255, 0, 0);
+  padding-left: 10px;
+}
+
+.panel h1 {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+.panel h2 {
+  font-size: 1.2rem;
+  margin: 10px 0 5px;
+}
+
+.panel h3 {
+  font-size: 1.1rem;
+  margin: 10px 0 2px;
+}
+
+.panel h4, .panel p, .panel strong {
+  margin: 2px 0;
+  font-size: 1rem;
+}
+
+.panel strong {
+  display: block;
+  margin-bottom: 4px;
+}
+
+.panel p {
+  margin-bottom: 12px;
+  line-height: 1.5;
+}
