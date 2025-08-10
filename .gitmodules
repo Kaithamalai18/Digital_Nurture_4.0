@@ -1,0 +1,3 @@
+[submodule "Week 8/GitDemo"]
+	path = Week 8/GitDemo
+	url = https://gitlab.com/kaithamalairbr/gitdemo.git
